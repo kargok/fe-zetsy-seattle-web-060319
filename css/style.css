@@ -25,9 +25,8 @@ h1 {
   color: #98ada6;
   margin: 0px 0px;
   padding-bottom: 10px;
-    border-bottom: 1px;border: #ccc solid;
-
-
+  border-bottom: 1px;
+  border: #ccc solid;
 }
 
 #cover img {
