@@ -19,13 +19,16 @@ body {
 
 /* Write all remaining styles here */
 
-#toptitle h1 {
+h1 {
   font-family: 'Libre Baskerville', serif;
   font-size: 5em;
   color: #98ada6;
   margin: 0px 0px;
   padding-bottom: 10px;
   border-bottom: 1px #ccc solid;
+}
+
+#toptitle a:link {
   text-decoration: none;
 }
 
