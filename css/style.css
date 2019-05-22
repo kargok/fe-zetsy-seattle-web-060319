@@ -63,5 +63,8 @@ a:hover {
 
 footer {
   text-align: right;
-  font: .25em;
+}
+
+p.small {
+  font-size: 0.8em;
 }
