@@ -25,3 +25,7 @@ h1 {
   color: #98ada6;
   margin: 0px 0px;
 }
+
+#cover img {
+  border: 5px;
+}
