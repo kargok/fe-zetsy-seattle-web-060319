@@ -32,6 +32,11 @@ h1 {
   text-decoration: none;
 }
 
+#toptitle a:hover {
+  text-decoration: none;
+  color: ;
+}
+
 #cover img {
   border: 5px rgb(152,173,166) solid;
   margin-top: 5px;
