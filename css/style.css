@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-#toptitle h1 a:link {
+#toptitle h1 {
   font-family: 'Libre Baskerville', serif;
   font-size: 5em;
   color: #98ada6;
