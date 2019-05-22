@@ -56,7 +56,7 @@ a:hover {
   border: 5px rgba(152,173,166,.5) solid;
 }
 
-#presslinks a:hover {
+#presslinks a:hover img {
   border: 5px rgb(152,173,166) solid;
   border: 5px rgba(152,173,166,1) solid;
 }
