@@ -24,13 +24,11 @@ h1 {
   font-size: 5em;
   color: #98ada6;
   margin: 0px 0px;
+  border-bottom: 1px;
+  border-color: #ccc;
 }
 
 #cover img {
   border: 5px rgb(152,173,166) solid;
 }
 
-#cover {
-  border: 3px 0 0 0 rgb(152,173,166) solid;
-  margin: 5px 0 0 0;
-}
