@@ -60,3 +60,8 @@ a:hover {
   border: 5px rgb(152,173,166) solid;
   border: 5px rgba(152,173,166,1) solid;
 }
+
+#copyright {
+  text-align: right;
+  font: .75em;
+}
