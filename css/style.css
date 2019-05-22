@@ -50,3 +50,11 @@ a:link {
 a:hover {
   text-decoration: underline;
 }
+
+#presslinks img {
+  border: 5px rgb(152,173,166) solid;
+}
+
+#presslinks a:hover {
+  
+}
