@@ -29,3 +29,7 @@ h1 {
 #cover img {
   border: 5px rgb(152,173,166) solid;
 }
+
+#cover {
+  border: 1px rgb(152,173,166) solid;
+}
