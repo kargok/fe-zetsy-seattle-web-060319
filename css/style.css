@@ -61,7 +61,7 @@ a:hover {
   border: 5px rgba(152,173,166,1) solid;
 }
 
-#copyright {
+#copyright p {
   text-align: right;
   font: .25em;
 }
